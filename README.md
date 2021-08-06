@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/steales/Bee-Movie/total.svg)]()
 # Bee-Movie
 ### The entire Bee Movie script for whenever you may need it :)
 
